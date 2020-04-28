@@ -1,9 +1,9 @@
 # covidVisualizer
-Tracker Application using React JS 
+Tracker Application using React JS <br />
 API: https://covid19.mathdro.id/api
 
 
-![COVID-19 Tracker](Screenshot/Screenshot from 2020-04-28 21-42-38.png)
+![COVID-19 Tracker](Screenshot/Screenshot%20from%202020-04-28%2021-42-38.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
